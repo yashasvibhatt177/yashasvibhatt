@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Yashasvi Bhatt - Portfolio",
+  "description": "Personal portfolio website of Yashasvi Bhatt, communication designer, featuring an animated curtain intro and About section.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
