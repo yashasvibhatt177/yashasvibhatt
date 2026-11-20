@@ -112,6 +112,7 @@ export default function App() {
           <Navbar
             onReplayIntro={startIntroSequence}
             onOpenResume={() => setIsResumeOpen(true)}
+            isResumeOpen={isResumeOpen}
           />
 
           {/* About Section positioned directly underneath the intro screen */}
